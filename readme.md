@@ -41,6 +41,6 @@
 
 # Author Details
 
-Name: Md. Ranju
+Name: Muhammad Ashiqur Rahman
 
-Github: https://github.com/muhammadranju
+Github: https://github.com/Ashiqur2812
