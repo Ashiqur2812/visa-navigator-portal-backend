@@ -1,7 +1,5 @@
 ## Title: Sunflower Backend
 
-## Assignment: 10 Visa Navigator
-
 ## Description: This is a backend for Sunflower banking application. It is built using Node.js, Express, MongoDB.
 
 ## Features:
